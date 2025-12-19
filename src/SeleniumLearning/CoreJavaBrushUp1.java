@@ -40,7 +40,7 @@ public class CoreJavaBrushUp1 {
 		System.out.println("develop branch changes1");
 		
 		System.out.println("develop branch changes by 2nd architect");
-		
+		System.out.println("all develop merge to master");
 		
 	}
 }
