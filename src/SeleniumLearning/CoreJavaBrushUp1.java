@@ -32,6 +32,9 @@ public class CoreJavaBrushUp1 {
 			System.out.println("Names in array is "+s);
 		}
 		
+		System.out.println("Post Jira 1");
+		System.out.println("Post Jira 2");
+		
 		
 	}
 }
