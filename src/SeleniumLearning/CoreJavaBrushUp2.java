@@ -48,6 +48,8 @@ public class CoreJavaBrushUp2 {
 		String[] names = {"rahul", "sahil", "mayur", "akshay", "roshan"};
 		List<String>nameArrayList = Arrays.asList("names");
 		System.out.println(nameArrayList.contains("sahil"));
+		
+		System.out.println("Post Jira 4");
 
 	}
 

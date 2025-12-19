@@ -35,6 +35,8 @@ public class CoreJavaBrushUp1 {
 		System.out.println("Post Jira 1");
 		System.out.println("Post Jira 2");
 		
+		System.out.println("Post Jira 3");
+		
 		
 	}
 }
